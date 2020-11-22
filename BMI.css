@@ -1,0 +1,33 @@
+body{
+  background-image: url("wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: 1400px 1000px;
+  background-color: #ffffff;
+  padding-top: 40px;
+  font-family: sans-serif;
+}
+.box{
+  background-image: linear-gradient( black,  #ff0000);
+  Height: 400px;
+  width: 500px;
+  margin: auto 670px;
+  box-shadow: 5px 10px 7px 8px #888888;
+  opacity: 0.9;
+  text-align: center;
+ }
+ button{
+    background-color: #CC3333;
+    height: 30px;
+    width: 150px;
+    font-family: Comic Sans MS;
+    margin: 0;
+   border-radius: 18px;
+ }
+ button:hover{
+   background-color: pink;
+   border: 2px solid yellow;
+ }
+#result{
+   width: 280px;
+   margin:9px auto;
+}
